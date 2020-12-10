@@ -7,4 +7,5 @@ Folders:
 * RNN_notebooks - the RNN Notebooks for agent motion predictions, using our own sampling.
 
 ds3lyftproject.ipynb = our final Kaggle competition Notebook
+rand_agent_rnn_finaL_keras_model.ipynb = our Keras Model
 
