@@ -8,5 +8,5 @@ Folders:
 
 ds3lyftproject.ipynb = our final Kaggle competition Notebook
 
-rand_agent_rnn_finaL_keras_model.ipynb = our Keras Model
+agents_motion_prediction_radius_overbig_roadstandardize_yaw_intersectionless_sampled_orig_fast2.ipynb = our Keras Model
 
