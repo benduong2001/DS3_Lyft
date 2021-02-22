@@ -3,12 +3,14 @@ DS3 Project Group: Lyft motion prediction project
 
 Folders:
 * lyftlong - csv files for the data used in the RNN notebooks and the EDA notebooks
+* Lyft_scripts - python files for Keras model,
 
-Unneeded Folders:
-* miscellaneous - the EDA notebooks
-* OldFiles - old files
-* Maps - unused maps
+Our Random Forest Notebook:
+* lyft_neural_network_setup_new.ipynb
 
-ds3lyftproject.ipynb = our final Kaggle competition Notebook
+Our Kaggle Competition Notebook:
+* ds3lyftproject.ipynb
 
-Lyft_scripts/Lyft_scripts_jupyter_tester_all_agent_centeronly.ipynb = our Keras Model
+Our Keras Model Notebook: 
+* Lyft_scripts/Lyft_scripts_jupyter_tester_all_agent_centeronly.ipynb
+
