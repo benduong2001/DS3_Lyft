@@ -11,4 +11,4 @@ Unneeded Folders:
 
 ds3lyftproject.ipynb = our final Kaggle competition Notebook
 
-Lyft_scripts/= our Keras Model
+Lyft_scripts/Lyft_scripts_jupyter_tester_all_agent_centeronly.ipynb = our Keras Model
