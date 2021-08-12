@@ -1,5 +1,5 @@
 # DS3_Lyft
-DS3 Project Group: Lyft motion prediction project
+DS3 Project Group: Lyft motion prediction project. Prediction modelling and statistics for street data and car movements from Lyft's Kaggle dataset.
 
 Folders:
 * lyftlong - csv files for the data used in the RNN notebooks and the EDA notebooks
