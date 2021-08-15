@@ -42,5 +42,5 @@ The classification showed that among the 4 features used, speed was the least us
 Keras Loss
 ![](presentation_pictures/kerasloss.png)
 Pytorch Loss
-![](presentation_pictures/pytorch.png)
+![](presentation_pictures/pytorchloss.png)
 
