@@ -18,6 +18,9 @@ Our Keras Model Notebook:
 # Project
 ![](scene7827_10frames.gif)
 
+![](ezgif-3-e066f34e79.gif)
+
+
 In 2020, the company Lyft had released a dataset on Kaggle of the street data collected by its AI vehicle in the city of Palo Alto.
 On October 2020, DS3 -a data-science student society at UCSD- had organized an event lasting up to Februrary 2021, where different teams would research and work on data-science projects. Our team consisted of Mingjia Zhu, Lehan Li, Jianyu Tao, and Benson Duong, and we were given a Kaggle dataset released by the company Lyft that featured street data collected by its AI vehicle in the city of Palo Alto.
 
