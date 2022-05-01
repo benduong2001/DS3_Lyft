@@ -20,7 +20,6 @@ Our Keras Model Notebook:
 
 ![](ezgif-3-e066f34e79.gif)
 
-![](lyft_slice_gif.gif)
 
 
 
@@ -44,6 +43,18 @@ The classification showed that among the 4 features used, speed was the least us
 
 # Project Task 2 -  Predictive Modelling 
 * For prediction modelling on the vehicle's movements, we used keras and pytorch.
+
+![](lyft_slice_gif.gif)
+
+The main idea: 
+* The car is to choose between many directions around them (for example, 8 cardinal directions):
+* These directions vector have their own radial cross-section, like "pie-slices"
+* We collect the information going on in that "slice", which will ultimately determine if choosing that direction vector is a good decision. For example:
+    *  The average dotproduct /cosine similarity between that direction vector and all the trajectory vectors of other ojects that intersect that pie-slice polygon
+    *  Number of objects in that slice
+    *  Average Velocity of objects in that slice
+    *  etc.
+* These are put into a vector, which becomes the observation row
 
 Keras Loss
 ![](presentation_pictures/kerasloss.png)
