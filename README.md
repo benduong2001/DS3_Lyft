@@ -30,7 +30,7 @@ Our project had 2 goals, where we attempted to classify moving on-road objects, 
 
 # Project Task 1 -  Moving on-road object classification
 
-* We attempted to classify unknown moving on-road objects into 3 known groups: cars/vehicles, cyclicts, and pedestrians.
+* We attempted to classify unknown moving on-road objects into 3 known groups: cars/vehicles, cyclicts, and pedestrians.  
 * We used Random-Foresting, and used the object's 3 dimensions and its speed as features for training
 
 Before Random Foresting
