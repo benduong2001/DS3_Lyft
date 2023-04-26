@@ -16,9 +16,7 @@ Our Keras Model Notebook:
 
 
 # Project
-![](scene7827_10frames.gif)
 
-![](ezgif-3-e066f34e79.gif)
 
 
 
